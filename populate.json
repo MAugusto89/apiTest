@@ -1,0 +1,24 @@
+{
+  "sl": [
+    {
+      "id": "01",
+      "nome": "DVR",
+      "img": "/img/auncio-dvr.png"
+    },
+    {
+      "id": "02",
+      "nome": "Cabo de Rede",
+      "img": "/img/cabo_de_rede.png"
+    },
+    {
+      "id": "03",
+      "nome": "Cabo de Rede",
+      "img": "/img/cabo-de-forca.png"
+    },
+    {
+      "id": "04",
+      "nome": "Cabo de Rede",
+      "img": "/img/camera-ip-speed_dome.png"
+    }
+  ]
+}
